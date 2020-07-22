@@ -1,3 +1,10 @@
+**PARTY**
+ - Angela - Fable
+ - Chris  - AuGUStus
+ - Gavin  - Asemer
+ - Tyler  - Halcyonificarian
+
+
 # Session 1:
 Go to call of heroes
 
@@ -44,6 +51,8 @@ Gus tries to corral everyone into pulling an all-nighter. Does so and gets infor
 **We sleep for the night**
 
 ## Quarters and Bits:
+
+### We are given for free
  - 1 x manacles
  - 1 x Climbing Kit
  - 2 x Minor Healing Potions
@@ -51,8 +60,9 @@ Gus tries to corral everyone into pulling an all-nighter. Does so and gets infor
 Store. Halfling asking if we need to buy anything for the exorbitant price of 4 GP per potion
 
 
- En Route to Hellknight Hill
-2.5 miles North of Breachill.
+*En Route to Hellknight Hill*
+
+**2.5 miles North of Breachill.**
 
 ## Hellknight Hill Exterior
 Doors ajar to Hellknight Hill. Not surprising since it is abandoned except by the Bramblebashers.
@@ -67,9 +77,10 @@ Met  Hell Knight from Order of the First Nail. Armiger Alak Stagram was injured 
 
 We enter the citadel and find a room with training dummies. We see a storage room through a crack that only an imp can go through. We enter the room to the left and there is a pentagram with the 3 imps that Armiger slayed.
 
-We go back through the training room and search another room that contains a spider swarm and the following loot:
-	2 x antidote ingredients
-	2 x arsenic
+We go back through the training room and search another room that contains a spider swarm.
+### The room contains the following loot
+ - 2 x antidote ingredients
+ - 2 x arsenic
 
 We defeat 1 Imp, and one runs away and turns into a rat. Fable gives me spider corpses because she is intrigued by my trash diet. It probably reminds her of Marty.
 
@@ -82,8 +93,15 @@ We bump into the training dummies and they leak silver pieces. We find:
 
 We continue through the Imp room and happen upon a courtyard. There is a halfling clutching a Goblin. It is Calmont.
 
-We enter the courtyard. we try and negotiate with him over the gurgling mosnter in the pond in the courtyard. Calmont flees to the battlements above the courtyard.
+We enter the courtyard. we try and negotiate with him while noticing the Growledon in the pond in the courtyard. Calmont flees to the battlements above the courtyard.
 
 Fable tries to persuade him since she knows him from around town. He calls us do-gooders.
 
 Hal tries to persuade him. He says there is an Elf gate under this building and he needs to know how to get there from the Goblins. He lets go of the Goblin and we enter combat!
+
+We almost kill Calmont and party with the Goblins. The goblins praise me and Asemer for our heroics and Hal talks to Helba, the Chieftain of the Bramblebashers. She knows nothing of the Elves, but was surprised when the Imps attacked-- calling themselves Cinderclaws. They ran up here to escape the Imps, Dragon-dogs, and other Hellbeasts. 
+
+Hal finds out the Growledon are the large-sized crushed dragons littering the courtyard. Not intelligent enough to form societies. They are not wildly beyond our capabilities.
+
+Helba knows about the downstairs, but never got the chance to tell Calmont about it. Growledon's blocked the downstairs, but Helba knows of a secret passage. We'll clear the downstairs and then Helba will guide us down. We'll break in Breachill, but the Bramblebashers will not go to Breachill.
+
