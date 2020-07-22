@@ -18,6 +18,8 @@
 ## Fort (e): 6 =  1 + 5
 ## Ref (e):  8 =  3 + 5
 
+## Perception: 2 = -1 + 3
+
 # Combat
 ## Alchemical Bomb
 ### + 6 = 3 + 3
@@ -44,6 +46,12 @@
  - Bottled Lightning
 
 # Attributes
+STR 10 -
+DEX 16 +3
+CON 12 +1
+INT 18 +4
+WIS 8  -1
+CHA 14 +2
 
 # Feats and Abilities
  - Irongut Goblin

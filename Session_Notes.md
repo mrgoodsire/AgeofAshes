@@ -103,5 +103,5 @@ We almost kill Calmont and party with the Goblins. The goblins praise me and Ase
 
 Hal finds out the Growledon are the large-sized crushed dragons littering the courtyard. Not intelligent enough to form societies. They are not wildly beyond our capabilities.
 
-Helba knows about the downstairs, but never got the chance to tell Calmont about it. Growledon's blocked the downstairs, but Helba knows of a secret passage. We'll clear the downstairs and then Helba will guide us down. We'll break in Breachill, but the Bramblebashers will not go to Breachill.
+Helba knows about the downstairs, but never got the chance to tell Calmont about it. Growledon's blocked the downstairs, but Helba knows of a secret passage. We'll clear the downstairs and then Helba will guide us down. We'll break in Breachill while the Bramblebashers stay on the ourskirts.
 
