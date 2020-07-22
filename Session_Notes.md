@@ -1,14 +1,14 @@
-Session 1:
+# Session 1:
 Go to call of heroes
 
-Town Hall
+## Town Hall
  Fire Mephits intrude. Fire happens. We kill Mephits and put out fires. Calmont was seen starting fires in the Town Hall. Greta Gardenia is a councilwoman who thanks us. She runs Call of Heroes. Warble of the Bramblebrashers was about to speak. Calmont was heading to Hellknight Hill (Home of the Bramblebrashers. 10G to meet with Bramblebrashers. 10GPs to bring Calmont back alive. Calmont was a store-hand at the Reliant Book Company.
 
 Loot:
-1 GP each
-1 lesser antiplague
-1 lesser antitoxin
-2 lesser minor healing potions
+ - 1 GP each
+ - 1 lesser antiplague
+ - 1 lesser antitoxin
+ - 2 lesser minor healing potions
 
 Warble:
 Helba is lead pf Bramblebrashers. Have not been attending meetings with Warble. Smoke signals seen ( A sign for help ).
@@ -24,11 +24,11 @@ Calmont’s Journal: Illegible… He states he was not well treated.
 
 Hal finds out fire mephits can be summoned.
 
-Shelly’s Abode:
+## Shelly’s Abode:
 Neighbor of Vox.
 Shelly: Vox on vacation for a week. Received coin from Vox to watch over Bookstore. Calmont and Vox had unstable relationship. Calmont complained of Vox ordering him around. Spoke directly to Vox regarding vacation. Calmont seemed unstable.
 
-Wizard’s Grace
+## Wizard’s Grace
 I earn 7 SP eating garbage and I find some nice boar fats and meats that I smoke and mix with salt and citric acid and jar with flour, water, carrot root, onion stem, celery nub, black pepper, rosemary stems, and potato peels. 4 x jars. I also find some old malt that I mix with my jar of wild yeast, sugar, and some of the rosemary stems to re-extract and barrel into beer.
 
 1 SP for boar stew. 
@@ -41,11 +41,12 @@ Asamer eats stew.
 
 Gus tries to corral everyone into pulling an all-nighter. Does so and gets infor for us to go to Quarters and Bits.
 
-Next Day:
-Quarters and Bits:
-1 x manacles
-1 x Climbing Kit
-2 x Minor Healing Potions
+**We sleep for the night**
+
+## Quarters and Bits:
+ - 1 x manacles
+ - 1 x Climbing Kit
+ - 2 x Minor Healing Potions
 
 Store. Halfling asking if we need to buy anything for the exorbitant price of 4 GP per potion
 
@@ -53,16 +54,16 @@ Store. Halfling asking if we need to buy anything for the exorbitant price of 4 
  En Route to Hellknight Hill
 2.5 miles North of Breachill.
 
-Hellknight Hill Exterior
+## Hellknight Hill Exterior
 Doors ajar to Hellknight Hill. Not surprising since it is abandoned except by the Bramblebashers.
 
 Need to go inside to go to top of citadel. We climb the brambles surrounding Hellknight Hill to get up into the citadel.
 
 Met  Hell Knight from Order of the First Nail. Armiger Alak Stagram was injured by Imps in the Citadel. Order of the First Nail typically worships Asmodeus. I healed him and he heads back to breachill.
 
-Session 2:
+# Session 2:
 
-Hellknight Hill Interior
+## Hellknight Hill Interior
 
 We enter the citadel and find a room with training dummies. We see a storage room through a crack that only an imp can go through. We enter the room to the left and there is a pentagram with the 3 imps that Armiger slayed.
 
