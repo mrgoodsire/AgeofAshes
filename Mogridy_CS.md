@@ -1,7 +1,7 @@
 # Description
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 1
+ Class:      Alchemist 2
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -12,42 +12,50 @@
  Weight:     20lbs
 
 # Vitals
- HP:       15
- Damage:   5
- AC (t):   18 = 3 + 3 + 2
- Fort (e): 6 =  1 + 5
- Ref (e):  8 =  3 + 5
- Will (t): 2 = -1 + 3
+ HP:       24
+ Damage:   2
+ AC (t):   19 = 3 + 4 + 2
+ Fort (e): 7 =  1 + 6
+ Ref (e):  9 =  3 + 6
+ Will (t): 3 = -1 + 4
 
-## Perception: 2 = -1 + 3
+## Perception: 3 = -1 + 4
 
-## Class DC(t): 17 = 10 + 4 + 3
+## Class DC(t): 18 = 10 + 4 + 4
 
 # Combat
+
+## Blowgun
+ + 7 = 3 + 4
+ 1 Damage
+ Range 20ft
+
 ## Alchemical Bomb
- + 6 = 3 + 3
+ + 7 = 3 + 4
  Range 20ft
 
 ## Dagger
- + 3 = 0 + 3
+ + 4 = 0 + 4
  1D4 + 0
 
 ## Sling
- + 6 = 3 + 3
+ + 7 = 3 + 4
  1D6 + 0
  Range 50ft
 
 # Alchemy
-## 5 items per day
+## 6 items per day
 ## Known Recipes:
  - Alchemist's Fire
- - 0 Acid Flask
+ - 2 Acid Flask
  - 2  Elixir of Life, Lesser
  - 4 Giant Centipede Poison
  -   Smoke Stick
- -   Antidote
+ - 2 Antidote
  -   Tanglefoot Bag
- -   bottled lightning
+ -   Arsenic
+ - 2 Black Adder Venom
+ -   Lethargy Poison
 
 # Attributes
 STR 10 -
@@ -62,20 +70,22 @@ CHA 14 +2
  - City Scavenger
  - Hobnobber
  - Alchemy
- - Bomber
- - Quick Bomber
+ - Toxicologist
+ - Subtle Delivery
+ - Read Lips
+ - Poison Resistance
 
 # Skills
-- Acrobatics(t):      6 =  3 + 3
-- Crafting(t):        7 =  4 + 3
-- Deception(t):       5 =  2 + 3
-- Diplomacy(t):       5 =  2 + 3
-- Underworld Lore(t): 7 =  4 + 3
-- Goblin Lore(t):     7 =  4 + 3
-- Society(t):         7 =  4 + 3
-- Stealth(t):         6 =  3 + 3
-- Survival(t):        2 = -1 + 3
-- Thievery(t):        6 =  3 + 3
+- Acrobatics(t):      7 =  3 + 4
+- Crafting(t):        8 =  4 + 4
+- Deception(t):       6 =  2 + 4
+- Diplomacy(t):       6 =  2 + 4
+- Underworld Lore(t): 8 =  4 + 4
+- Goblin Lore(t):     8 =  4 + 4
+- Society(t):         8 =  4 + 4
+- Stealth(t):         7 =  3 + 4
+- Survival(t):        3 = -1 + 4
+- Thievery(t):        7 =  3 + 4
 
 ## Languages
 - Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven
@@ -84,8 +94,10 @@ CHA 14 +2
 - Studded Leather Armor     1
 - Alchemist's Tools         2
 - Dagger                    L
+- Blowgun                   -
+- Blowgun Needles x 100     -
 - Sling                     L
-- Bullets x 20              -
+- Bullets x 17              -
 - Adventurer's Pack         2
 - Bandolier                 -
 - Basic Crafter's Book      L
@@ -104,6 +116,8 @@ CHA 14 +2
 - Lesser Tabglefoot Bag     -
 - Lesser Bottled Lightning  -
 - Lesser Cheetah's Elixit   -
+- Meat mound
+- Wild blackberries
 
 ## Bulk: 4
 

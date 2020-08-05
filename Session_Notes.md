@@ -241,9 +241,47 @@ Gus channels and kills skellies before they even rise. Fable and I pick a lock f
  - Potency Crystal - Asemer
  - Scroll of Magic Missile - Hal
 
+### Session 3 XP:
+ - 180     Rescuing Bumblebrashers/Calmont
+ - 60      Grauladon 
+ - 120     Bug Bear x2
+ - 60      Goblin Dog x3
+ - 80      Skeleton Prisoners x4
+ - 40      Graveshell
+ - 480    Session Total
+ - 940    Level 1 Total
+
 # Session 4
 
 ## Hellknight Hill Interior
 
 ### Clerk's Office
-We enter and Gus spies a giant bat with a 15 foot wingspan hanging from the ceiling. He approaches it peacefully. Combat! A worg and an Imp enter the fray!
+We enter and Gus spies a giant bat with a 15 foot wingspan hanging from the ceiling. He approaches it peacefully. Combat! A worg and an Imp enter the fray! We kill all of them but the Imp whom me tie up with some rope. The worgs eyes light on fire and burn out. This means something. The imp says, "All hail Asmodeus!" and tries to cast a spell. Gus promptly beheads it. Gus puts the heads in a sack in the corner of the office.
+
+### Record Room
+We enter and immediately fight three rats. Combat! They dead.
+
+#### Room Loot:
+ - Mound of meat - Mo'
+ - Wild Blackberries - Mo'
+
+### Larder
+We find rotten food mounds and worg nests. Gus knows that the burning eyes are not typically a Worg trait.
+
+We move through an empty column room, hallway, and staging area to a hidden door.
+
+### Secret Corridor
+A spear impales Fable who was tra-la-la-ing down the hallway. A 34 to hit doing 22 damage. Holy shit. Gus heals her.
+
+### Secret Imp Room
+A devil room with texts and reagents for summoning devils.
+
+#### Room Loot:
+ - Silver shortsword
+
+**Level Up!**
+
+## Helknight Hill
+
+### Dungeon Entrance
+We encounter three birds. Combat!
