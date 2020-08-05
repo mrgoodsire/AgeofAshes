@@ -281,7 +281,16 @@ A devil room with texts and reagents for summoning devils.
 
 **Level Up!**
 
-## Helknight Hill
+## Helknight Hill Interior
 
 ### Dungeon Entrance
-We encounter three birds. Combat!
+We encounter three birds. Combat! The emperor birds hit fucking hard! Stairs lead to where Grouladons collapsed upper level.
+
+### Dungeon Hall #1
+We find Boggards who we attack because they looked threatening. We tie them up and I fix Gus's shield. Red cloth is symbol of Galak the dragon god on the Boggards' shoulders. They babble in Boggard and Gus decapitates them. This room belonged to the Bramblebashers.
+
+#### Room Loot:
+ - Studded Leather Armor x 2 - Gus
+ - Club x 2 - Left in room
+ - 30 SP
+ - Onyx Dog (Magical, Transmutation, Consumable) Functions as Onyx Panther - Fable

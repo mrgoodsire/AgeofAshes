@@ -13,7 +13,7 @@
 
 # Vitals
  HP:       24
- Damage:   2
+ Damage:   0
  AC (t):   19 = 3 + 4 + 2
  Fort (e): 7 =  1 + 6
  Ref (e):  9 =  3 + 6
@@ -48,13 +48,13 @@
 ## Known Recipes:
  - Alchemist's Fire
  - 2 Acid Flask
- - 2  Elixir of Life, Lesser
+ - 0  Elixir of Life, Lesser
  - 4 Giant Centipede Poison
  -   Smoke Stick
- - 2 Antidote
+ -   Antidote
  -   Tanglefoot Bag
  -   Arsenic
- - 2 Black Adder Venom
+ - 3 Black Adder Venom
  -   Lethargy Poison
 
 # Attributes
@@ -95,9 +95,9 @@ CHA 14 +2
 - Alchemist's Tools         2
 - Dagger                    L
 - Blowgun                   -
-- Blowgun Needles x 100     -
+- Blowgun Needles x 98      -
 - Sling                     L
-- Bullets x 17              -
+- Bullets x 18              -
 - Adventurer's Pack         2
 - Bandolier                 -
 - Basic Crafter's Book      L
