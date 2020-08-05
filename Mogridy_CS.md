@@ -13,7 +13,7 @@
 
 # Vitals
  HP:       15
- Damage:   1
+ Damage:   5
  AC (t):   18 = 3 + 3 + 2
  Fort (e): 6 =  1 + 5
  Ref (e):  8 =  3 + 5
@@ -41,7 +41,7 @@
 ## 5 items per day
 ## Known Recipes:
  - Alchemist's Fire
- - 2 Acid Flask
+ - 0 Acid Flask
  - 2  Elixir of Life, Lesser
  - 4 Giant Centipede Poison
  -   Smoke Stick

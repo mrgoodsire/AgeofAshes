@@ -241,4 +241,9 @@ Gus channels and kills skellies before they even rise. Fable and I pick a lock f
  - Potency Crystal - Asemer
  - Scroll of Magic Missile - Hal
 
+# Session 4
 
+## Hellknight Hill Interior
+
+### Clerk's Office
+We enter and Gus spies a giant bat with a 15 foot wingspan hanging from the ceiling. He approaches it peacefully. Combat! A worg and an Imp enter the fray!
