@@ -47,15 +47,15 @@
 ## 6 items per day
 ## Known Recipes:
  - Alchemist's Fire
- - 2 Acid Flask
- - 0  Elixir of Life, Lesser
- - 4 Giant Centipede Poison
+ - 1 Acid Flask
+ - 1  Elixir of Life, Lesser
+ - 2 Giant Centipede Poison
  -   Smoke Stick
  -   Antidote
  -   Tanglefoot Bag
  -   Arsenic
- - 3 Black Adder Venom
- -   Lethargy Poison
+ - 2 Black Adder Venom
+ - 2 Lethargy Poison
 
 # Attributes
 STR 10 -
@@ -97,7 +97,7 @@ CHA 14 +2
 - Blowgun                   -
 - Blowgun Needles x 98      -
 - Sling                     L
-- Bullets x 18              -
+- Bullets x 23              -
 - Adventurer's Pack         2
 - Bandolier                 -
 - Basic Crafter's Book      L
@@ -111,13 +111,15 @@ CHA 14 +2
 - ? Gettin' Trashed IPA x 4 -
 - Silver Dagger             L
 - ? Rations x 5             -
-- Spider Corpses x 100      -
 - Growledon rations x 4     -
-- Lesser Tabglefoot Bag     -
+- Lesser Tanglefoot Bag     -
 - Lesser Bottled Lightning  -
-- Lesser Cheetah's Elixit   -
+- Lesser Cheetah's Elixir   -
 - Meat mound
 - Wild blackberries
+- Potion of Retaliation, lesser (Type fire)
+- Unidentified Masonry items
+- Invisibility Potion
 
 ## Bulk: 4
 

@@ -157,7 +157,7 @@ Greta proclaims us Breachill heroes and we get discounts at the stores! We sched
 #### We split the loot money into 5 SP and 4 GP and sell the following:
  - Calmont's Leather armor 5 SP each
 
-Trini describes a treasure hunt to Hal who goes on it? **Ask Tyler for details**
+Trini describes a treasure hunt to Hal to lead to treasures hidden by Lamond Breachton. She described the book and page. An infrastructure book and the page describes attractions around the town. Hal must go on this hunt to find Lamond's treasures.
 
 Gus and I party with the Bramblebashers and Helba informs us of the secret passage to the lower levels.
 
@@ -293,4 +293,114 @@ We find Boggards who we attack because they looked threatening. We tie them up a
  - Studded Leather Armor x 2 - Gus
  - Club x 2 - Left in room
  - 30 SP
- - Onyx Dog (Magical, Transmutation, Consumable) Functions as Onyx Panther - Fable
+ - Onyx Dog (Magical, Transmutation, Consumable) Functions as Onyx Panther - Hal
+
+
+### Session 4 XP:
+ - 60        Giant Bat
+ - 50        Warg
+ - 40        Imp
+ - 60        Giant Rat x3
+ - 10          Spear Trap
+ - 100       Order of the Nail Lore + Clearing Ground Level
+ - 120        Emperor Bird x3
+ - 80          Boggard Warrior x2
+ - 520        Session Total
+ - 260        Level 2 Total
+
+# Session 5
+
+## Hellknight Interior
+
+### Dungeon Hallway 2
+We enter the room and there is a cowering boggard. Asemar rushes in to attack, misses every hit, and starts a dialogue regarding the boggard's terms of surrender. Gus and Fable echo this by intimidating him. We kill him and inspect the room. There is old furniture abound.
+
+We proceed north to a crack and peer through. A large bear is eating the bodies of monkey and frog people. Hal goes to get a glimpse and finds that the monkey people are not within his scope of knowledge. Mo' recognizes them as Charau-ka, ape-men of the Mwangi Expanse. We pull the boggard out of the way and find a barricaded door that the boggard and we cannot get through. We go south back to the main hall.
+
+### Main Corridor
+We take a 10 minute break to heal up and refocus. Mo' finds slime that goes from the top farthest stairway to the borrom door at the end of the main hall. He describes the taste to fable as a sweaty acidic vinegar-y flavor that could be refined into a nice taste.
+
+### Dungeon Hallway 3
+We go north to a door that Fable can't open. She beckons Asemer to try and he cannot go through because it is barred. Hal and Fable fist-bump. Asemer pries the door open with his bo staff and we encounter 4 Charau-ka. **Combat!**
+
+Gus attempts to imtimidate. The Charau-ka respond threateningly in Mwangi. We kill 3 and chase the remaining into the next room. We follow them and encounter a boggard who waps me with his tongue. I poison him good and chase him into the adjoining bedroom where we kill him and the rest of the apes.
+
+### Bedroom
+Full of garbage. There are goblin jokes on the wall. They. Are. Awful.
+
+#### Room Loot:
+ - 15 GP - Gus
+ - Staff - Left in room
+ - Furniture
+
+Gus heals everyone 17 and we go back to towen to rest.
+
+## Breachill
+We arrive midday.
+
+### Quarters and Bits
+The halfling greets us as we enter. We get 5% off for being town heroes. Fable charms him and he doubles it to 10%.
+
+#### Bought Items
+ - 2 minor healing potions - Asemer
+ - lesser healing potion - Fable
+
+### Hal's Trini Treasure Hunt
+
+#### Monument Circle
+Hall inspects every nook and cranny of the gray bronze statue of Lamond Breachton. Finds nothing. He climbs the statue and touches an orb he detects magic on, drawing attention from the townsfolk. He explains it away. The orb is fused to the statue and he cannot remove it. It has permancied light cast on it.
+
+#### Town Hall
+Examines the ENTIRE exterior of town hall to figure out what Trini was talking about. Finds nothing.
+
+### Fable, Mo', and Asemer's Caper
+The Posandi Bros. are bad news and they need to rob them. Fable knows the Posandi Bros. have been here since the Hellknights occupied Breachill. Everyone who works there is familial with the Posandi Bros. Quintino is the figure head of the Posandi Bros. The higher ranking officials treat Fable well, but the laborers (Stonemasons) bully fable because her step-dad owns Tuskhead Stoneworking, which encroaches on Posandi Bros. territory.
+
+We arrive at night. We try and pick the lock and get in so we can sabotage. Fable fails twice.
+
+Mo' makes an underworld lore (27) on the Posandi Bros. Quintino is smart and good at problem-solving. They are unreasonable lucky and shrewd, so they are probably into shady shit.
+
+Mo' pours acid on it. It weakens the locks integrity and we break the lock off. Someone is coming so Mo' slings a rock in the opposite direction. Asemer breaks into a crate and Fable examines the contents. She can't make it out. I see that it's masonry crafting stuff, but there is some stuff I can't place. Fable grabs some masonry tools, Mo' grabs some of the stuff he could not identify, and Asemer grabs some heavy stuff.
+
+We open one more box with more masonry tools. Asemer identifies supplies identical to those found in a supply room at The Citadel. *Interesting*.
+
+We stealth out unimpeded.
+
+### Gourmet Mo'
+
+#### The Pickled Ear
+I gather egg whites from shells, stale bread I pound into bread crumbs, and bacon grease. I fry the spiders in the bacon grease after dredging them.
+
+#### Lamond's Lament
+Greta is working there. I serve her some of the Mo' dubbed Arraignees frites. She likes it and I serve at Lamond's Lament to the less fortunate folk of Breachill. I then gather some sling stones.
+
+##### Reward:
+ - Potion of Retaliation, Lesser (Type fire)
+
+### We sleep for the night
+
+
+## Hellknight Interior
+
+### Common Room
+A fallen chandelier lays in the middle of the room. Red curtains are remnants of the Hellknights' previous residence. The barred room is no longer barred and we enter.
+
+### Goblin Bedroom
+A puddle drips on wood stuck to flagstone rubble rising up like bizarre foliage. Mo' recognizes it as a Goblin residence. I find loot in the mud puddle.
+
+#### Room Loot:
+ - Invisibility Potion - Mo'
+
+### Main Corridor
+We follow the slime trail from the collapsed lower level to the bottom door. Asemer open the door to hallway.
+
+### Painted Corridor
+Oil paintings adorn the wall depicting the Hellknights most accomplished deeds. It details the Hellknights conquest of monsters. Mo' notices a painting in better condition still hanging on the wall. It depicts a hellknight fighting on a hill. It's probably worth something. Fable takes the canvas off the frame and pockets it. We go to the door to the North.
+
+### Study
+Two monkey bodies are on the floor. A splintered table is in the center with chairs, moldy books, and papers scattered around. A statue of as hellknight is in the center of the room. The statue levitates off the table. Combat!
+
+We kill it and it says, "Take me with you!"
+
+We heal up Asemer. 1 elixir of life, combat medicine, 2 healing spells.
+We heal Gus. 2 elixirs of life.
