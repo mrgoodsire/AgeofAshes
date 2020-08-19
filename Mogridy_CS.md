@@ -91,13 +91,17 @@ CHA 14 +2
 - Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven
 
 # Inventory
+*WIP: I gotta buy stuff from Quarters and Bits and split up the Adventurer's Pack*
 - Studded Leather Armor     1
-- Alchemist's Tools         2
+- Backpack                  -
+  - Cookware                2
+  - Alchemist's Tools       2
+  - Repair Kit              1
 - Dagger                    L
 - Blowgun                   -
 - Blowgun Needles x 98      -
 - Sling                     L
-- Bullets x 23              -
+- Bullets x 20              -
 - Adventurer's Pack         2
 - Bandolier                 -
 - Basic Crafter's Book      L
@@ -108,7 +112,7 @@ CHA 14 +2
 - Antidote Ingredients x 2  -
 - Arsenic x 2               -
 - ? Boar Stew x 4           -
-- ? Gettin' Trashed IPA x 4 -
+- ? Gettin' Trashed IPA x 3 -
 - Silver Dagger             L
 - ? Rations x 5             -
 - Growledon rations x 4     -
@@ -120,9 +124,10 @@ CHA 14 +2
 - Potion of Retaliation, lesser (Type fire)
 - Unidentified Masonry items
 - Invisibility Potion
+- Vial of Gelatinous Cube slime x 6
 
-## Bulk: 4
+## Bulk: 5
 
-## GP: 11
-## SP: 15
+## GP: 40
+## SP: 20
 

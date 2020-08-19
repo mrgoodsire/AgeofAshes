@@ -283,7 +283,7 @@ A devil room with texts and reagents for summoning devils.
 
 ## Helknight Hill Interior
 
-### Dungeon Entrance
+### Main Corridor
 We encounter three birds. Combat! The emperor birds hit fucking hard! Stairs lead to where Grouladons collapsed upper level.
 
 ### Dungeon Hall #1
@@ -318,7 +318,7 @@ We enter the room and there is a cowering boggard. Asemar rushes in to attack, m
 We proceed north to a crack and peer through. A large bear is eating the bodies of monkey and frog people. Hal goes to get a glimpse and finds that the monkey people are not within his scope of knowledge. Mo' recognizes them as Charau-ka, ape-men of the Mwangi Expanse. We pull the boggard out of the way and find a barricaded door that the boggard and we cannot get through. We go south back to the main hall.
 
 ### Main Corridor
-We take a 10 minute break to heal up and refocus. Mo' finds slime that goes from the top farthest stairway to the borrom door at the end of the main hall. He describes the taste to fable as a sweaty acidic vinegar-y flavor that could be refined into a nice taste.
+We take a 10 minute break to heal up and refocus. Mo' finds slime that goes from the top farthest stairway to the bottom door at the end of the main hall. He describes the taste to fable as a sweaty acidic vinegar-y flavor that could be refined into a nice taste.
 
 ### Dungeon Hallway 3
 We go north to a door that Fable can't open. She beckons Asemer to try and he cannot go through because it is barred. Hal and Fable fist-bump. Asemer pries the door open with his bo staff and we encounter 4 Charau-ka. **Combat!**
@@ -404,3 +404,124 @@ We kill it and it says, "Take me with you!"
 
 We heal up Asemer. 1 elixir of life, combat medicine, 2 healing spells.
 We heal Gus. 2 elixirs of life.
+
+#### Room Loot:
+ - 2 Throwing Axes - Left in Room
+ - Non-magic Obsidian Strategic Figurines - Gus 20GP total
+
+
+### Session 5 XP: 
+ - 40     Boggard warrior
+ - 150    Shrieking monkey people
+ - 60     Boggard but with spells
+ - 20      Puzzle progress
+ - 50     Posandi Bros. Shenanigans
+ - 50     Volunteer at Lamond's Lament
+ - 60     Mini Sauron
+ - 430    Session Total
+ - 690    Level 2 total
+
+# Session 6
+
+## Hellknight  Hill Interior
+
+### West Hallway from Study
+We open the door and Asemar walks inside a slime. Combat! Sneaks and crits don't work, but poison do.
+
+#### Room Loot:
+ - +1 Bastard Sword
+
+After an hour, Gus has used battle medicine on everyone. Hal gets antsy sitting still for so long. I offer him a Gettin' Trashed IPA, he does not like it but is a good sport about it. I offer some to everyone else and we cheers over the dead slime. We notice that Hal has scales that have been getting worse.
+
+### Smithy
+We find enough armor to piece together one set of Hellknight Armor, anvils, and degraded weapons.
+
+#### Room Loot
+ - Hellknight Plate - Gus
+
+### Study
+We return back to the study and attempt a barricaded door. We try the upper west door.
+
+### Empty room
+The door to the West returns to the main corridor.
+
+### Main Corridor
+We go through the South Eastern door.
+
+### Tomb
+There are 7 skellies and a big skelly. There is a final resting place for Hellknights. We find bodies lain to rest with some conspicuously empty spaces.
+
+#### Room Loot:
+ - Hellknight Plate - Left in hall for later
+
+### Big Boi Tomb
+Four tombs with important hellknights. There names are on their tombs.
+
+#### Hellknights buried here:
+ - Mistress of blades Xera Delphine
+ - Master of Blades Renten Viselli
+ - Paravicar Yenesta
+ - Paralictor Loren Sinelle
+
+Hal sneaks through the door to the North and discovers two Kobolds eating the Emperor birds in the Main Corridor. 
+
+### Main Corridor
+There are two Kobolds eating the emperor birds. Mo' tries to be diplomatic and addresses them as friends, but they say "We're not friends, we're dragons!" Combat!
+
+One escaped, after summoning two illusions.
+
+We gather the paintings and armor and go back to Breachill.
+
+## Breachill
+
+### Quarters and Bits
+Gus sells off our excess loot to divvy up amongst the group.
+
+Everyone gets 12GP
+
+Mo' and Hus fully heal two sets of Hellknight fullplate! We sell them for 10GP and a set of fullplate armor for Gus. Gus sells his Breastplate for 4GP and adds 1GP to the group loot.
+
+### Shelyn's Smile
+Asemer, and Fable go to sell the Obsidian figurines and the painting.
+
+Armiger Alak just happens to be in the store.
+
+Alak buys the painting for 15GP and the figurines for 20GP.
+
+Quintino also happens to be in the store and Fable pickpockets him and gets some junk. He wants any Hellknight junk we find in the citadel. Alak is staying with Quintino's house. Alak was turned down boarding due to his Hellknight armor and Quintino took him in.
+
+### Hal meanders around the city
+He finds himself passing the Pickled Ear, Morta's Mortuary, and Breach Creek Lumber. Lumberjacks are struggling with goblin's at the edge of the Crimsontide Wood getting in the way and chicken monsters deeper in the fwood who have invaded their lumber harvesting locations. Hal also finds a bounty for the chicken monster at Breach Creek.
+
+A tradesman mentions they've lost some people to the chicken monster, and that they can use help. Hal says the Halcyon Brigade may get to it after our current affairs.
+
+These Devil Chickens have been turning people to stone.
+
+## Hellknight Hill Interior
+
+### Tomb
+Fable disarms an impaling spike trap on the east door past all the normal Hellknight tombs.
+
+### Document storage room
+Lockboxes, files, filing cabinets, recent shoe footprints in the dust, and candles on the table.
+
+Mo' follows the dusty tracks to a hallway that leads into darkness.
+Hal knows the candles on the table have been used recently for something magical.
+Hal knows that the lockboxes were opened and emptied ages ago.
+Asemer found an unopened lockbox. Mo' opens it and we find loot!
+
+#### Room Loot
+ - Scroll of Darkness - Hal
+ - Scroll of Magic Missile - Hal
+ - Scroll of Heal( Level 1 ) - Gus
+ - Scroll of ??? - Hal
+ - Alak's ring - Fable
+ - Silver figurine
+
+We see the dark hallway ends and we go back to the tomb.
+
+### Tomb
+Four ghosts are in the room. Combat!
+
+I run, we beat the ghosts and heal up.
+Battle medicine on Hal, and CRIT on Mo' for 24 damage healed.
