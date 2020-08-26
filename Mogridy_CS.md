@@ -1,7 +1,8 @@
 # Description
+
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 2
+ Class:      Alchemist 3
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -12,52 +13,63 @@
  Weight:     20lbs
 
 # Vitals
- HP:       24
+
+ HP:       33
  Damage:   0
- AC (t):   19 = 3 + 4 + 2
- Fort (e): 7 =  1 + 6
- Ref (e):  9 =  3 + 6
- Will (t): 3 = -1 + 4
+ AC (t):   20 = 3 + 4 + 3
+ Fort (e): 8 =  1 + 7
+ Ref (e):  10 =  3 + 7
+ Will (t): 4 = -1 + 5
 
-## Perception: 3 = -1 + 4
+## Perception: 4 = -1 + 5
 
-## Class DC(t): 18 = 10 + 4 + 4
+## Class DC(t): 19 = 10 + 4 + 5
 
 # Combat
 
 ## Blowgun
- + 7 = 3 + 4
+
++ 8 = 3 + 5
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
- + 7 = 3 + 4
+
++ 8 = 3 + 5
  Range 20ft
 
 ## Dagger
- + 4 = 0 + 4
+
++ 5 = 0 + 5
  1D4 + 0
 
 ## Sling
- + 7 = 3 + 4
+
++ 8 = 3 + 5
  1D6 + 0
  Range 50ft
 
 # Alchemy
-## 6 items per day
-## Known Recipes:
- - Alchemist's Fire
- - 1 Acid Flask
- - 1  Elixir of Life, Lesser
- - 2 Giant Centipede Poison
- -   Smoke Stick
- -   Antidote
- -   Tanglefoot Bag
- -   Arsenic
- - 2 Black Adder Venom
- - 2 Lethargy Poison
+
+## 7 items per day
+
+## Known Recipes
+
+- Alchemist's Fire, Moderate
+- 1 Acid Flask, Moderate
+- 1  Elixir of Life, Lesser
+- 1 Giant Centipede Poison
+-   Smoke Stick
+-   Antidote
+-   Tanglefoot Bag, Moderate
+-   Arsenic
+- 2 Black Adder Venom
+- 2 Lethargy Poison
+- Ghost Charge
+- Forensic Dye
 
 # Attributes
+
 STR 10 -
 DEX 16 +3
 CON 12 +1
@@ -66,40 +78,46 @@ WIS 8  -1
 CHA 14 +2
 
 # Feats and Abilities
- - Irongut Goblin
- - City Scavenger
- - Hobnobber
- - Alchemy
- - Toxicologist
- - Subtle Delivery
- - Read Lips
- - Poison Resistance
+
+- Irongut Goblin
+- City Scavenger
+- Hobnobber
+- Alchemy
+- Toxicologist
+- Subtle Delivery
+- Read Lips
+- Poison Resistance
+- Glean Contents
 
 # Skills
-- Acrobatics(t):      7 =  3 + 4
-- Crafting(t):        8 =  4 + 4
-- Deception(t):       6 =  2 + 4
-- Diplomacy(t):       6 =  2 + 4
-- Underworld Lore(t): 8 =  4 + 4
-- Goblin Lore(t):     8 =  4 + 4
-- Society(t):         8 =  4 + 4
-- Stealth(t):         7 =  3 + 4
-- Survival(t):        3 = -1 + 4
-- Thievery(t):        7 =  3 + 4
+
+- Acrobatics(t):      8 =  3 + 5
+- Crafting(t):        9 =  4 + 5
+- Deception(t):       7 =  2 + 5
+- Diplomacy(t):       7 =  2 + 5
+- Underworld Lore(t): 9 =  4 + 5
+- Goblin Lore(t):     9 =  4 + 5
+- Society(t):         11 =  4 + 7
+- Stealth(t):         8 =  3 + 5
+- Survival(t):        4 = -1 + 5
+- Thievery(t):        8 =  3 + 5
 
 ## Languages
+
 - Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven
 
 # Inventory
+
 *WIP: I gotta buy stuff from Quarters and Bits and split up the Adventurer's Pack*
 - Studded Leather Armor     1
 - Backpack                  -
   - Cookware                2
   - Alchemist's Tools       2
   - Repair Kit              1
+  - Thieves' Tools          2
 - Dagger                    L
 - Blowgun                   -
-- Blowgun Needles x 98      -
+- Blowgun Needles x 97      -
 - Sling                     L
 - Bullets x 20              -
 - Adventurer's Pack         2
@@ -115,19 +133,19 @@ CHA 14 +2
 - ? Gettin' Trashed IPA x 3 -
 - Silver Dagger             L
 - ? Rations x 5             -
-- Growledon rations x 4     -
+- Grouladon rations x 4     -
 - Lesser Tanglefoot Bag     -
 - Lesser Bottled Lightning  -
 - Lesser Cheetah's Elixir   -
-- Meat mound
 - Wild blackberries
 - Potion of Retaliation, lesser (Type fire)
 - Unidentified Masonry items
 - Invisibility Potion
 - Vial of Gelatinous Cube slime x 6
+- Vial of tunnel dirt
 
 ## Bulk: 5
 
-## GP: 40
-## SP: 20
+## GP: 50
 
+## SP: 20
