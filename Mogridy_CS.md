@@ -1,3 +1,9 @@
+<!-- markdownlint-disable MD004 -->
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD030 -->
+<!-- markdownlint-disable MD036 -->
+
 # Description
 
  Name:       Mogridy
@@ -55,18 +61,18 @@
 
 ## Known Recipes
 
-- Alchemist's Fire, Moderate
-- 1 Acid Flask, Moderate
-- 1  Elixir of Life, Lesser
-- 1 Giant Centipede Poison
--   Smoke Stick
+- 1 Alchemist's Fire, Moderate
+- 0 Acid Flask, Moderate
+- 4 Elixir of Life, Lesser
+-  Giant Centipede Poison
+- 2  Smoke Stick
 -   Antidote
 -   Tanglefoot Bag, Moderate
 -   Arsenic
-- 2 Black Adder Venom
-- 2 Lethargy Poison
+- 1 Black Adder Venom
+- 1 Lethargy Poison
 - Ghost Charge
-- Forensic Dye
+-  Forensic Dye
 
 # Attributes
 
@@ -109,6 +115,7 @@ CHA 14 +2
 # Inventory
 
 *WIP: I gotta buy stuff from Quarters and Bits and split up the Adventurer's Pack*
+
 - Studded Leather Armor     1
 - Backpack                  -
   - Cookware                2
@@ -143,9 +150,12 @@ CHA 14 +2
 - Invisibility Potion
 - Vial of Gelatinous Cube slime x 6
 - Vial of tunnel dirt
+- Blood Blade Mercenaries Receipt
+- +1 Dagger
+- Voz's Notes
 
 ## Bulk: 5
 
-## GP: 50
+## GP: 38
 
 ## SP: 20

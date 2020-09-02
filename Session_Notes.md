@@ -1,8 +1,12 @@
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD036 -->
+
 # Party
 
 - Angela - Fable
 - Chris  - AuGUStus
-- Gavin  - Asemer
+- Gavin  - Asemar
 - Tyler  - Halcyonificarian
 
 # Session 1
@@ -24,11 +28,11 @@ Warble:
 Helba is lead pf Bramblebrashers. Have not been attending meetings with Warble. Smoke signals seen ( A sign for help ).
 Reliant Book Co.
 We convince the guards to get inside.
- Fable: Niche books for academics. Vox Lirayne owns with Calmont as her apprentice.
+ Fable: Niche books for academics. Voz Lirayne owns with Calmont as her apprentice.
 
 Roleplaying: Tyler is free as of two years from Ravounel. Gus and Asamer came on caravan. Fable is from Breachill.
 
-Guard: Vox has been on leave for a week according to the neighbour on the right.
+Guard: Voz has been on leave for a week according to the neighbour on the right.
 
 Calmont’s Journal: Illegible… He states he was not well treated.
 
@@ -36,8 +40,8 @@ Hal finds out fire mephits can be summoned.
 
 ## Shelly’s Abode
 
-Neighbor of Vox.
-Shelly: Vox on vacation for a week. Received coin from Vox to watch over Bookstore. Calmont and Vox had unstable relationship. Calmont complained of Vox ordering him around. Spoke directly to Vox regarding vacation. Calmont seemed unstable.
+Neighbor of Voz.
+Shelly: Voz on vacation for a week. Received coin from Voz to watch over Bookstore. Calmont and Voz had unstable relationship. Calmont complained of Voz ordering him around. Spoke directly to Voz regarding vacation. Calmont seemed unstable.
 
 ## Wizard’s Grace
 
@@ -118,7 +122,7 @@ Fable tries to persuade him since she knows him from around town. He calls us do
 
 Hal tries to persuade him. He says there is an Elf gate under this building and he needs to know how to get there from the Goblins. He lets go of the Goblin and we enter combat!
 
-We almost kill Calmont and party with the Goblins. The goblins praise me and Asemer for our heroics and Hal talks to Helba, the Chieftain of the Bramblebashers. She knows nothing of the Elves, but was surprised when the Imps attacked. The cult is called the Cinderclaws and they  summoned the imps. They ran up here to escape the Imps, Dragon-dogs, and other Hellbeasts.
+We almost kill Calmont and party with the Goblins. The goblins praise me and Asemar for our heroics and Hal talks to Helba, the Chieftain of the Bramblebashers. She knows nothing of the Elves, but was surprised when the Imps attacked. The cult is called the Cinderclaws and they  summoned the imps. They ran up here to escape the Imps, Dragon-dogs, and other Hellbeasts.
 
 ### Calmont Loot
 
@@ -155,7 +159,7 @@ We get our malignity of goblins and start to head out when we spy an opened door
 
 ## Breachill
 
-The Bramblebashers hail us as heroes, specifically Mo and Asemer. They set up camp outside of Breachill. We arrive at dusk and find out the council members are still working at Breachill Town Hall (3)
+The Bramblebashers hail us as heroes, specifically Mo and Asemar. They set up camp outside of Breachill. We arrive at dusk and find out the council members are still working at Breachill Town Hall (3)
 
 ### Breachill Town Hall
 
@@ -227,8 +231,8 @@ The yolechas were bugbears. They probably preceded the Cinderclaws, but there is
 
 - Lesser tanglefoot bag - Mo
 - Lesser bottled lightning - Mo
-- Minor healing potion - Asemer
-- Wolfsbane talisman - Asemer
+- Minor healing potion - Asemar
+- Wolfsbane talisman - Asemar
 - 2 flasks of holy water - Gus and Fable
 
 ### Corridor 1
@@ -269,7 +273,7 @@ Gus channels and kills skellies before they even rise. Fable and I pick a lock f
 - Lesser Darkvision Elixir - Gus
 - Jade Cat statue - Gus
 - Cheetah's Elixir lesser - Mo
-- Potency Crystal - Asemer
+- Potency Crystal - Asemar
 - Scroll of Magic Missile - Hal
 
 ### Session 3 XP
@@ -366,7 +370,7 @@ We take a 10 minute break to heal up and refocus. Mo' finds slime that goes from
 
 ### Dungeon Hallway 3
 
-We go north to a door that Fable can't open. She beckons Asemer to try and he cannot go through because it is barred. Hal and Fable fist-bump. Asemer pries the door open with his bo staff and we encounter 4 Charau-ka. **Combat!**
+We go north to a door that Fable can't open. She beckons Asemar to try and he cannot go through because it is barred. Hal and Fable fist-bump. Asemar pries the door open with his bo staff and we encounter 4 Charau-ka. **Combat!**
 
 Gus attempts to imtimidate. The Charau-ka respond threateningly in Mwangi. We kill 3 and chase the remaining into the next room. We follow them and encounter a boggard who waps me with his tongue. I poison him good and chase him into the adjoining bedroom where we kill him and the rest of the apes.
 
@@ -392,7 +396,7 @@ The halfling greets us as we enter. We get 5% off for being town heroes. Fable c
 
 #### Bought Items
 
-- 2 minor healing potions - Asemer
+- 2 minor healing potions - Asemar
 - lesser healing potion - Fable
 
 ### Hal's Trini Treasure Hunt
@@ -405,7 +409,7 @@ Hall inspects every nook and cranny of the gray bronze statue of Lamond Breachto
 
 Examines the ENTIRE exterior of town hall to figure out what Trini was talking about. Finds nothing.
 
-### Fable, Mo', and Asemer's Caper
+### Fable, Mo', and Asemar's Caper
 
 The Posandi Bros. are bad news and they need to rob them. Fable knows the Posandi Bros. have been here since the Hellknights occupied Breachill. Everyone who works there is familial with the Posandi Bros. Quintino is the figure head of the Posandi Bros. The higher ranking officials treat Fable well, but the laborers (Stonemasons) bully fable because her step-dad owns Tuskhead Stoneworking, which encroaches on Posandi Bros. territory.
 
@@ -413,9 +417,9 @@ We arrive at night. We try and pick the lock and get in so we can sabotage. Fabl
 
 Mo' makes an underworld lore (27) on the Posandi Bros. Quintino is smart and good at problem-solving. They are unreasonable lucky and shrewd, so they are probably into shady shit.
 
-Mo' pours acid on it. It weakens the locks integrity and we break the lock off. Someone is coming so Mo' slings a rock in the opposite direction. Asemer breaks into a crate and Fable examines the contents. She can't make it out. I see that it's masonry crafting stuff, but there is some stuff I can't place. Fable grabs some masonry tools, Mo' grabs some of the stuff he could not identify, and Asemer grabs some heavy stuff.
+Mo' pours acid on it. It weakens the locks integrity and we break the lock off. Someone is coming so Mo' slings a rock in the opposite direction. Asemar breaks into a crate and Fable examines the contents. She can't make it out. I see that it's masonry crafting stuff, but there is some stuff I can't place. Fable grabs some masonry tools, Mo' grabs some of the stuff he could not identify, and Asemar grabs some heavy stuff.
 
-We open one more box with more masonry tools. Asemer identifies supplies identical to those found in a supply room at The Citadel. *Interesting*.
+We open one more box with more masonry tools. Asemar identifies supplies identical to those found in a supply room at The Citadel. *Interesting*.
 
 We stealth out unimpeded.
 
@@ -451,7 +455,7 @@ A puddle drips on wood stuck to flagstone rubble rising up like bizarre foliage.
 
 ### Main Corridor
 
-We follow the slime trail from the collapsed lower level to the bottom door. Asemer open the door to hallway.
+We follow the slime trail from the collapsed lower level to the bottom door. Asemar open the door to hallway.
 
 ### Painted Corridor
 
@@ -463,7 +467,7 @@ Two monkey bodies are on the floor. A splintered table is in the center with cha
 
 We kill it and it says, "Take me with you!"
 
-We heal up Asemer. 1 elixir of life, treat wounds, 2 healing spells.
+We heal up Asemar. 1 elixir of life, treat wounds, 2 healing spells.
 We heal Gus. 2 elixirs of life.
 
 #### Room Loot
@@ -536,7 +540,7 @@ Four tombs with important hellknights. There names are on their tombs.
 - Paravicar Yenesta
 - Paralictor Loren Sinelle
 
-Hal sneaks through the door to the North and discovers two Kobolds eating the Emperor birds in the Main Corridor. 
+Hal sneaks through the door to the North and discovers two Kobolds eating the Emperor birds in the Main Corridor.
 
 ### Main Corridor
 
@@ -558,7 +562,7 @@ Mo' and Hus fully heal two sets of Hellknight fullplate! We sell them for 10GP a
 
 ### Shelyn's Smile
 
-Asemer, and Fable go to sell the Obsidian figurines and the painting.
+Asemar, and Fable go to sell the Obsidian figurines and the painting.
 
 Armiger Alak just happens to be in the store.
 
@@ -587,7 +591,7 @@ Lockboxes, files, filing cabinets, recent shoe footprints in the dust, and candl
 Mo' follows the dusty tracks to a hallway that leads into darkness.
 Hal knows the candles on the table have been used recently for something magical.
 Hal knows that the lockboxes were opened and emptied ages ago.
-Asemer found an unopened lockbox. Mo' opens it and we find loot!
+Asemar found an unopened lockbox. Mo' opens it and we find loot!
 
 #### Room Loot
 
@@ -651,9 +655,10 @@ Gus uses meat and excellent roleplaying to try and lure Big Bumble out of the ro
 
 We walk for about a mile before we start to see a lantern. Hal and Fable go invisible and scout ahead. Hal sees how perfectly cylindrical the tunnel is and Hal notices a tripwire. By the lantern there are barrels and a desk; basically it's a workstation. Hal casts light on a rock, Fable disables the trap and Hal signals us to come forward. The torch was rigged to drop onto the explosive barrels. The tunnel would have partially caved in. It probably would have been more effective of people were coming from the other direction.
 
-Mo' looks over the workstation and the documents here are owned by Vox.
+Mo' looks over the workstation and the documents here are owned by Voz.
 
 ### Room loot
+
 - Breachill, outposts of liberty book - Mo'
 - Map with directions to Entrance to Alesta's Ring -> Guardian's Way - Mo'
 - Breachill outposts of secrets book - Mo'
@@ -662,7 +667,7 @@ Mo' looks over the workstation and the documents here are owned by Vox.
 - Scroll of Obscurring Mist - Hal
 - Scroll of Touch Idiocy - Hal
 
-We continue to the end of the tunnel and there is a ladder that leads up to a trapdoor. Asemer proceeds up the ladder and opens the creaky trapdoor. Asemer sees a pantry full of pickled items. Mo' pushes Asmer out of the way and finds cured meats, bread, greasy foods, pickled eggs, carrots, beets, onions, cucumber, pig ears, chicken feet, radishes. We hear tavern music and goblins. I peak out and there are stairs that lead to another door.
+We continue to the end of the tunnel and there is a ladder that leads up to a trapdoor. Asemar proceeds up the ladder and opens the creaky trapdoor. Asemar sees a pantry full of pickled items. Mo' pushes Asmer out of the way and finds cured meats, bread, greasy foods, pickled eggs, carrots, beets, onions, cucumber, pig ears, chicken feet, radishes. We hear tavern music and goblins. I peak out and there are stairs that lead to another door.
 
 Through that door there are two cooks and a waiter notice Mo'. Mo' asks where the bathroom is, and the waiter says he has to go get the manager. Mo' blows a lethargy dart at the waiter and Hal tries to negotiate. Mo' throws a smokestick and yells fire! We storm out with the crowd and run to the other side of Breachill. Roxie notices us run out but goes to tend to her kitchen.
 
@@ -676,9 +681,9 @@ We walk in nonchalantly, get a hearty boar stew, ales, and talk strategy about c
 
 A small crowd has formed in front of The Pickled Ear. Guards are there around the entrance talking to Roxie. Mo' reads her lips and see that she is telling the guard that she wants the Halcyon Brigade to pay for the damages accrued. Halcyon approaches her and says we're here to discuss damages with the guard inside the bar. We go inside and half the crowd clears.
 
-Roxie had no idea that tunnel went to the citadel. Vox had been using it once a week. She had been paying Roxie to use the door. The tunnel had existed there long before she owned this establishment. That is all she knows about the tunnel.
+Roxie had no idea that tunnel went to the citadel. Voz had been using it once a week. She had been paying Roxie to use the door. The tunnel had existed there long before she owned this establishment. That is all she knows about the tunnel.
 
-Mo' and Hal confidently believe she is telling the truth. Gus is skeptical. Roxie hasn't seen Vox in over a week.
+Mo' and Hal confidently believe she is telling the truth. Gus is skeptical. Roxie hasn't seen Voz in over a week.
 
 Mo' drops a gold under the table and notices Roxie has cooking shoes on with no dirt on the soles.
 
@@ -692,4 +697,114 @@ Hal helps and then distracts Roxie so that Mo' can investigate upstairs. He roll
 
 ### Wizard's Grace
 
+Mo' read that there are two prevailing schools of thought on Lamond Breachton.
 
+Secrets book: Lamond is an egomaniacal wizard who tried to enslave everyone, wiped their memory, and started the town.
+
+Liberty Book: Lamond was a visioanry who led the farmers to build the city of Breachill.
+
+Voz's Notes: Rebuke Breachton and the dumb townsfolk.
+
+### Town Hall
+
+We presented the information to the council. There isn't enough information to go after Roxi, Posandi Bros, or quintino.
+
+## Hellknight Hill Interior
+
+### Big Boi Tombs
+
+We loot the tombs
+
+#### Room Loot
+
+- Bracers of Missile Defense
+- Monkey Talisman
+- Featherstep  stone
+- Dual Rings
+
+## Session 7 XP
+
+- 160    Pib, Zarf, Bumble and tying up various loose ends in the basement floors
+- 40     Explosive barrels trap
+- 10      Laying the beatdown on some cooks
+- 100    Handling of matters at the Pickled Ear
+- 20      Uncovering some mysteries of Breachill
+- 330    Session 7 Total
+- 180    Level 3 Total
+
+# Session 8
+
+## Guardian's Way Exterior
+
+### Watchtowers
+
+We are seeking another entrance to the elf gate which accprding to Voz's notes is accessed by Guardian's Way
+
+An outpost used by Isger humans to fight off Goblins, Hobgoblins, orcs, etc. in the Goblin wars We see orcs and watchtowers in the forest. There is a two stepped watchtower with a bell on top and a couple platforms. They are escalated by rope ladders.
+
+Orcs and Goblins chatting about supposed to be keeping watch.
+
+Mo' knows a band of mercenaries make this outpost their headquarters. They are known as the Bloody Blade mercenaries led by a fearsome female Hobgoblin. The Bloody Blade is a band of bandits that prey on small defenseless caravans. Low magic group.
+
+Hal casts invisibility on Fable who disables the bell in the middle and rigs it to fall on whomever uses it. Fable also resist the temptation to loot the living orcs.
+
+An orc notices a rope ladder swaying and goes to investigate it; he detects nothing.
+
+Everyone except Gus sneaks up on a fringe Goblin to take out. Gus summons a spooky ungerground boi. Asemar climbs the tree and Flurries him. Combat!
+
+All of the watch gets involved. We knock most of them out. An Orc and two Goblins flee. One dies of acid. RIP.
+
+We tie all of them up in the cabin and heal ourselves.
+
+#### Combat Loot
+
+- 4 x studded leathers
+- 42 SP
+- Leather armor
+- Rapier
+- Composite shortbow
+- Key
+
+ Fable finds a lockbox under the bed. She opens it with the key we found.
+
+#### Lockbox Loot
+
+- 4 x Lesser healing potions
+- Torch
+- Handwritten Note - Mo'
+- 600 SP - Gus
+
+Note is a proof of payment from Voz to the Blood Blade mercenaries for 600 SP.
+
+We interrogate the Hobogoblin. Voz has a group of skeletons with her normally and she pays well. The Goblins and Orcs live here. They haven't ventured far into the cave. It's full of crawly things. They come here once every three weeks. Voz came by 3 or 4 days ago and offered them the silver.
+
+There is an Isger bounty on the Blood Blade mercenaries for raiding caravans.
+
+Gus determines that they are not evil.
+
+Mo' gives the Hobgoblin 12 GP and says she should try adventuring. The work is looked more kindly upon. She give me a respectful nod. We leave them by the road.
+
+### Cavern
+
+Damp disturbed cavern. It appears someone has passed through this area. There are two tunnels to the north and south. It's empty. Gus know the tracks belong to three humanoid creatures that lead to the south. Two of the tracks are very heavy and slow.
+
+We go to the south and find Voz Lirayne (Half-Elf) with her skelli bois. Combat! Hal grows scales all over his body and gets draconic eyes. He shoots cold out of his breath.
+
+We tie Voz up and interrogate her.
+
+Voz says we'll get nothing out of her. Asemar punches her. She says that we are not equals and she wont deal with us. Hal says we should kill her. Voz says what lies in the basement is bigger than Breachill ever was. Norgorber works in mysterious ways. If she can't access the gateway, she doubts we'll have better luck.
+
+#### Room Loot
+
+- +1 Dagger
+- Lesser healing potion
+- Scroll of True Strike - Hal
+- Knapsack full of letters and papers - Mo'
+- Pendant of Norgorber
+- Spellbook
+
+The letters are between Voz and teh Scarlet Triad. It's basically an agreement for Voz to prove that Alestra's Ring is in the basement. She was to activate it, and the Scarlet Triad would compensate her accordingly. All the letters are signed "By Norgorber's Hand". this indicates that she is indeed a follower of the Reaper of Reputation. Mo' does not know about the Scarlet Triad at this time.
+
+Her journal is written in Necril.
+
+We also find notes for a necromantic ritual for summoning.
