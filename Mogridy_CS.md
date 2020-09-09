@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       33
- Damage:   0
+ Damage:   10
  AC (t):   20 = 3 + 4 + 3
  Fort (e): 8 =  1 + 7
  Ref (e):  10 =  3 + 7
@@ -44,10 +44,10 @@
 + 8 = 3 + 5
  Range 20ft
 
-## Dagger
+## +1 Dagger
 
-+ 5 = 0 + 5
- 1D4 + 0
++ 6 = 0 + 5 + 1
+ 1D4 + 1
 
 ## Sling
 
@@ -61,18 +61,18 @@
 
 ## Known Recipes
 
-- 1 Alchemist's Fire, Moderate
+- 2 Alchemist's Fire, Moderate
 - 0 Acid Flask, Moderate
-- 4 Elixir of Life, Lesser
--  Giant Centipede Poison
-- 2  Smoke Stick
+- 6 Elixir of Life, Lesser
+- 2 Giant Centipede Poison
+-   Smoke Stick
 -   Antidote
 -   Tanglefoot Bag, Moderate
 -   Arsenic
-- 1 Black Adder Venom
-- 1 Lethargy Poison
-- Ghost Charge
--  Forensic Dye
+- 2 Black Adder Venom
+- Lethargy Poison
+- 2 Ghost Charge
+- Forensic Dye
 
 # Attributes
 
@@ -153,9 +153,11 @@ CHA 14 +2
 - Blood Blade Mercenaries Receipt
 - +1 Dagger
 - Voz's Notes
+- Pendant of Norgorber
+- +1 Leather Armor
 
 ## Bulk: 5
 
-## GP: 38
+## GP: 57
 
 ## SP: 20

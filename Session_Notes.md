@@ -32,7 +32,7 @@ We convince the guards to get inside.
 
 Roleplaying: Tyler is free as of two years from Ravounel. Gus and Asamer came on caravan. Fable is from Breachill.
 
-Guard: Voz has been on leave for a week according to the neighbour on the right.
+Guard: Voz has been on leave for a week according to the neighbor on the right, Shelly.
 
 Calmont’s Journal: Illegible… He states he was not well treated.
 
@@ -49,13 +49,13 @@ I earn 7 SP eating garbage and I find some nice boar fats and meats that I smoke
 
 1 SP for boar stew.
 
-Fable attempts to steal from Trini (Councilmember). Gets caught by Trini and he notices she saved people from the fire and lets it slide. Gets 1 GP and 4SP (She shares 1 SP per person)
+Fable attempts to steal from Trini (Council member). Gets caught by Trini and he notices she saved people from the fire and lets it slide. Gets 1 GP and 4SP (She shares 1 SP per person)
 
 Hal sneaks in to the storage room and finds Trini as he’s leaving after trying to leave money. Trini knows that Hal is bleaching ( Aging quickly ).
 
 Asamer eats stew.
 
-Gus tries to corral everyone into pulling an all-nighter. Does so and gets infor for us to go to Quarters and Bits.
+Gus tries to corral everyone into pulling an all-nighter. Does so and gets info for us to go to Quarters and Bits.
 
 **We sleep for the night**
 
@@ -187,9 +187,9 @@ Gus and I party with the Bramblebashers and Helba informs us of the secret passa
 
 We go to Quintino and Greta and talk about the Elf Gate and the Growledons and such. in the Citadel. Alak is there and Hal talks him up even though he's evil... Greta is surprised there are Hellknights in the area again.
 
-#### Quarantino gives us loot
+#### Quintino gives us loot
 
-- 2 minor helaing potions
+- 2 minor healing potions
 
 ### Quarters and Bits
 
@@ -265,7 +265,7 @@ Books had broken tables litter the room. Order of the Nail is not evil. They are
 
 "To Lector Assilimar, Thanks for helping me quell that savagery. Signed Hellknight P Stagram Esq."
 
-Gus channels and kills skellies before they even rise. Fable and I pick a lock for an hour and finally get it open.
+Gus channels and kills skeletons before they even rise. Fable and I pick a lock for an hour and finally get it open.
 
 #### Lockbox Loot
 
@@ -598,9 +598,9 @@ Asemar found an unopened lockbox. Mo' opens it and we find loot!
 - Scroll of Darkness - Hal
 - Scroll of Magic Missile - Hal
 - Scroll of Heal( Level 1 ) - Gus
-- Scroll of ??? - Hal
+- Scroll of Darkvision - Hal
 - Alak's ring - Fable
-- Silver figurine
+- Silver figurine of Alesta
 
 We see the dark hallway ends and we go back to the tomb.
 
@@ -719,7 +719,7 @@ We loot the tombs
 
 - Bracers of Missile Defense
 - Monkey Talisman
-- Featherstep  stone
+- Featherstep stone
 - Dual Rings
 
 ## Session 7 XP
@@ -738,7 +738,7 @@ We loot the tombs
 
 ### Watchtowers
 
-We are seeking another entrance to the elf gate which accprding to Voz's notes is accessed by Guardian's Way
+We are seeking another entrance to the elf gate which according to Voz's notes is accessed by Guardian's Way
 
 An outpost used by Isger humans to fight off Goblins, Hobgoblins, orcs, etc. in the Goblin wars We see orcs and watchtowers in the forest. There is a two stepped watchtower with a bell on top and a couple platforms. They are escalated by rope ladders.
 
@@ -752,25 +752,27 @@ An orc notices a rope ladder swaying and goes to investigate it; he detects noth
 
 Everyone except Gus sneaks up on a fringe Goblin to take out. Gus summons a spooky ungerground boi. Asemar climbs the tree and Flurries him. Combat!
 
-All of the watch gets involved. We knock most of them out. An Orc and two Goblins flee. One dies of acid. RIP.
-
-We tie all of them up in the cabin and heal ourselves.
+All of the watch gets involved. We knock most of them out. An Orc and two Goblins flee. One Orc dies of acid. One Goblin dies of arrow, both by Hal. RIP.
 
 #### Combat Loot
 
 - 4 x studded leathers
 - 42 SP
-- Leather armor
-- Rapier
+- +1 Leather armor - Mo'
+- +1 Striking Rapier - Fable
 - Composite shortbow
 - Key
+
+### Cabin
+
+We tie all of them up in the cabin and heal ourselves.
 
  Fable finds a lockbox under the bed. She opens it with the key we found.
 
 #### Lockbox Loot
 
 - 4 x Lesser healing potions
-- Torch
+- Everburning Torch
 - Handwritten Note - Mo'
 - 600 SP - Gus
 
@@ -782,7 +784,7 @@ There is an Isger bounty on the Blood Blade mercenaries for raiding caravans.
 
 Gus determines that they are not evil.
 
-Mo' gives the Hobgoblin 12 GP and says she should try adventuring. The work is looked more kindly upon. She give me a respectful nod. We leave them by the road.
+Mo' gives the Hobgoblin 12 GP and says she should try adventuring. The work is looked more kindly upon. She give Mo' a respectful nod. We leave them by the road.
 
 ### Cavern
 
@@ -796,15 +798,136 @@ Voz says we'll get nothing out of her. Asemar punches her. She says that we are 
 
 #### Room Loot
 
-- +1 Dagger
+- +1 Dagger - Mo'
 - Lesser healing potion
 - Scroll of True Strike - Hal
 - Knapsack full of letters and papers - Mo'
-- Pendant of Norgorber
-- Spellbook
+- Pendant of Norgorber - Mo'
+- Spellbook - Hal
 
-The letters are between Voz and teh Scarlet Triad. It's basically an agreement for Voz to prove that Alestra's Ring is in the basement. She was to activate it, and the Scarlet Triad would compensate her accordingly. All the letters are signed "By Norgorber's Hand". this indicates that she is indeed a follower of the Reaper of Reputation. Mo' does not know about the Scarlet Triad at this time.
+The letters are between Voz and the Scarlet Triad. It's basically an agreement for Voz to prove that Alesta's Ring is in the basement. She was to activate it, and the Scarlet Triad would compensate her accordingly. All the letters are signed "By Norgorber's Hand". this indicates that she is indeed a follower of the Reaper of Reputation. Mo' does not know about the Scarlet Triad at this time.
 
 Her journal is written in Necril.
 
 We also find notes for a necromantic ritual for summoning.
+
+## Session 7 XP
+
+- 160    Pib, Zarf, Bumble and tying up various loose ends in the basement floors
+- 40     Explosive barrels trap
+- 10      Laying the beatdown on some cooks
+- 100    Handling of matters at the Pickled Ear
+- 20      Uncovering some mysteries of Breachill
+- 330    Session 7 Total
+- 180    Level 3 Total
+
+## Session 8 XP
+
+- 200 Blood Blade Mercenaries and bonus for Dmiri interaction
+- 160 Voz and pair of skeletons.
+- 360 Session 8 Total
+- 540 Level 3 Total
+
+# Session 9
+
+## Guardian's Way Exterior
+
+We see that the Orcs and Hobogoblin have cut their bonds and escaped.
+
+We get to Breachill within an hour.
+
+## Breachill
+
+A crowd follows us as we enter with Voz and head to the town hall.
+
+### Breachill Town Hall
+
+All five council members exit and greet us.
+
+Asemar escorts Voz and Fable announces we have found the traitor of Breachill. Greta congratulates us on bringing Voz back to stand trial. Greta orders her secretary to get the court ready to conduct trial. Guards then escort Voz to a prison cell.
+
+Mo' wants to raise the points that the council thought Voz was on vacation. She searching for the Elf Gate and MAYBE ordering Calmont to harass the Bramblebashers seem external to Breachill, and Mo' feels we need to build a better case against her. Because right now it seems like we found out Voz is doing stuff that seems shday with no actual crime taking place.
+
+Greta takes us aside to tell us that we need to get evidence on Voz. We do not need to attend the trial, but we can be there as witnesses. The council needs to contact Elidir (Capital of Isger) regarding getting a judge. It might be a week
+
+Among the crowd we hear rumors that Calmont has claimed Voz was behind the town hall fires and everything else and Calmont should get a reduced sentence.
+
+Gus tells the crowd that people are responsible for their own actions and if Calmont started the fires he deserves to stand trial for it. The crowd disperses.
+
+Greta tells us we can try and translate Necril at the Breachill Archives.
+
+Trini asked if we accessed the lower levels of the citadel. We have not. Trini doesn't have anything to give us. If the trial is resolved then we may receive funds from the city.
+
+Fable is about to give Alak the ring, and Hal says he's evil and we shouldn't. Fable wants to give him a fake ring to mess with him.
+
+We get into a philosophical argument on stereotyping people who follow Asmodeus. Hal is pro stereotyping because those people enslaved him, Mo' is anti stereotyping because he is fighting against his own negative stereotypes, and Gus is in the middle. Hal reveals he was a slave for ten years and he is bleaching because of it. Mo' reveals he is an eight year old.
+
+### Shelyn's Smile
+
+Gus, Asemar, and Fable go in and get the old lady merchant to appraise Alak's signet ring. It appraises for 15 GP. Fable says it's worth 25 GP relying on her good business as clout. The lady says she doesn't remember selling her that pin she's wearing. Fable gaslights her by saying she did buy the pin. Merchant lady says her offer stands.
+
+Gus knows the silver figurine is a symbol of the goddess Alesta. Goddess of thresholds and transitions and doorways. We hold onto it because it seems like a quest item.
+
+### Breachill Archives
+
+Mo' enters, and has no idea where to go. A half-orc (Jorell Blacktusk) in glasses asks how he can help him. Mo' asks for a tome on deciphering Necril. He asks why and Mo' says he's investigating someone's whereabouts for a pending trial. He says as long as Mo' the council's blessing he's good. He gets Mo' the tome, and he deciphers it in this empty building.
+
+#### Voz's Journal
+
+Shelly a week before the events at town hall occurring, Voz had a meeting with someone from the scarlet triad and they discussed compensation. I know that Voz is really excited to start necromancy school. She wants to use the citadel as the location of the school. She'll use those funds to start the school. She spent two days in the first level of the citadel casting a ritual to bring back a hellknight to describe the pathways from the outpost to the basement floor. She was upset the Boggard collapsed the stairway and found the Guardian's way entrance. By talking to the hellknight she probably upset and made other corpses rise. The last day talks about her fighting spiders going deeper into the cavern.
+
+### Breachill Townhall
+
+Hal goes to Trini's office and knocks. He talks to Trini about the book he has been using to go through the scavenger hunt. Hal drew out everything and he can't figure out where Lamond's secrets lie. Trini says Hal needs to think like a magician. Trini gives Hal a note to Jorell Blacktusk to lend Hal the book so he can use that instead of his drawings. Hal believes he knows what to do and goes to the Archives.
+
+### Breachill Archives
+
+Hal arrives and sees Mo' translating. He clears his throat and Jorell remarks on how crazy it is to have two visitors in one day. Hal gives Jorell the note and Jorell gives Hal the book "The Historical Archives of Breachill".
+
+### Monument Circle
+
+Hal arrives with the book. He goes by the well and looks through "The Historical Archives of Breachill". He opens up the book to volume 6 page 809 and casts detect aura. He sees a picture of Monument Circle and overlayed in magic he sees an aqaufer system for the freshwater wells and handwritten text saying observe and imitate. Hal takes the pose of the statue of Lamond Breachton and casts light on his hand. Nothing happens.
+
+Hal decides to consult with Gus and heads to the Wizard's Grace.
+
+### Wizard's Grace
+
+We all meet, Mo' is way late. It's a normal night. Gus gives everyone 19 GP for their cut of the loot. Hal says he tries to stay jovial becuase if he's grumpy he bleaches faster. We're going to go with Hal to the aquafers to figure things out.
+
+### Streets
+
+Fable notices two eyes staring at her from the top of town hall and as soon as Fable notices they back off the roof. It looks like a child. Fable yelps and says it was nothing.
+
+### Tuskhead Stoneworking
+
+We all sleep for the night!
+
+Hal oscillates colors while he sleeps.
+
+### Posandi Bros
+
+We all go to Posandi Bros.  We get directed to Almira, a manager, who goes and gets Alak for us, but she is snide about it. Alak comes out, and Fable asks what are we going to get for giving him the ring. Alak is upset we won't just give him the ring and offers us 20 GP. Gus says too bad we don't havfe the ring and we leave. Alak says that is disappointing. Mo' is upset about the whole thing.
+
+## Cave to Alesta's Ring
+
+### Entrance
+
+We enter and see the spider webs. We cautiously proceed.
+
+### Room where we fought Voz
+
+We find two hellknight skeletons.
+
+### Large Cavern
+
+We find a lady. She has befriended the spiders. Renali came from the Mwangi Expanse through Alesta's Ring. She has been investigating the Cinderclaws for a long time. She followed them through and she has been stuck here for a long time. She has been trapped here for two weeks. That's why the Charau-ka and Boggards were here! A fearsome beast awaits us deeper in the cavern. It takes the form of a wolf, but Renalia suspects that that is not its true form.
+
+Hal knows that these portals would probably exist, but knows it is uncommon to find them.
+
+The spiders come out and we can see that Renali can clearly control the spiders.
+
+Renali transforms into an a spider humanoid. She says she is of the Anadi people from the Mwangi Expanse.
+
+She closed off the way deeper with webbing. She unblocks it for us so we can proceed.
+
+There is a bone throne wrapped in red velvet. The centerpiece of this room. Arranged in concentric circles around the throne are a number of humanoid corpses. Each are posed so their heads are pointing towards the goblin sitting on this throne. Combat!
