@@ -931,3 +931,19 @@ Renali transforms into an a spider humanoid. She says she is of the Anadi people
 She closed off the way deeper with webbing. She unblocks it for us so we can proceed.
 
 There is a bone throne wrapped in red velvet. The centerpiece of this room. Arranged in concentric circles around the throne are a number of humanoid corpses. Each are posed so their heads are pointing towards the goblin sitting on this throne. Combat!
+
+# Session 10 (Goblin President, the scurge of Chris's dice)
+
+Start in combat. Thing corners Hal, everyone is at half or less. Fable comes in CLUTCH with a double sneak attack crit. Hal steals the kill with a lengthily described magic missile. We all slowly melt from poison damage. Ends up it's a greater Barghest. Mo knows that there was a "goblin/kobold god" worshiped in the region. Gus knows it's from the abyssal plane and decided to stay in Golarian to be an asshole. He's been here being an a-hole for centuries.
+
+Hal missile description: Hal strains himself to concentrate his bloodline into the casting of all his spells, as he strains harder and harder more and more silver scales covers his skin, and he begins smoking with a white icy mist. He puts all his energy into a single casting of magic missile and fires two bolts, which look much more like arcane bolts rather than wispy arcane darts. (a magic missile like a dragon would cast rather than a tiny gnome sorcerer. The bolts slam into an open wound fable created with her crit, and the bolts explode inside of the creature, destroying just enough if its vital organs to kill the creature.
+
+Barghest bedroom loot: +1 chainmail and breastplate, fear gem, feather token fan, healers gloves
+
+Gus and Fable identify a bunch of bones from different races. Gus collects non goblin bones and starts digging graves. Mo objects and collects goblin bones. Gus agrees and they both begrudingly dig graves.
+
+We reach a hole in the cave with a bunch of shrooms and a white grass field surrounding it. Mo runs up and eats a shroom, kicking up spores and poisoning everyone. We leave the cave and wash off the spores. 
+Back in the cave we mission impossible fable into the hole below. Fable yells whatsup to us above, monkey moshpit ensues. Evil monkey cleric can fireball. We take the cleric alive.
+
+WE LEVEL UP TO 4
+Looks like we foundt he elfgate. Time to roleplay. END session
