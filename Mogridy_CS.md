@@ -63,7 +63,7 @@
 
 - 2 Alchemist's Fire, Moderate
 - 0 Acid Flask, Moderate
-- 6 Elixir of Life, Lesser
+- 6 Elixir of Life, Lesser (Question from chris: Can you craft this? It's a level 5 item)
 - 2 Giant Centipede Poison
 -   Smoke Stick
 -   Antidote
